@@ -1,0 +1,13 @@
+/* Write CSS Here */
+body {
+	text-align: center;
+    background-image: url(https://lookw.ru/10/1042/1567129951-dzungli-42.jpg);
+    background-size: 100%;
+}
+.zmk {
+	font-size: 80px;
+	font-weight: bold;
+	color: rgb(4, 87, 4);
+    border: 40px;
+    border-color: black;
+}
